@@ -1,2 +1,7 @@
 one
 two
+<<<<<<< HEAD
+=======
+three
+four
+>>>>>>> 6bd7548 (updatet-4)
